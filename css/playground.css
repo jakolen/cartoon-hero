@@ -1,0 +1,67 @@
+body{
+    background-color: whitesmoke;
+    margin: 0px;
+    font-family: Helvetica,Arial,sans-serif;
+}
+
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 24px;
+    line-height: 0px;
+}
+h3{
+    font-size: 20px;
+}
+header{
+    text-align: center;
+}
+
+header h1{
+    color: black;
+}
+.box-1{
+    background-color: violet;
+    width: 400px;
+    margin: 24px auto;
+    padding: 24px;
+}
+.box-2{
+    background-color: yellow;
+    width: 400px;
+    margin: 24px auto;
+    padding: 24px;
+}
+.box-3{
+    background-color:rebeccapurple;
+    width: 400px;
+    margin: 24px auto;
+    padding: 24px;
+}
+.box-4{
+    background-color: red;
+    width: 400px;
+    margin: 24px auto;
+    padding: 24px;
+}
+a{
+    background-color: royalblue;
+    color: white;
+}
+span{
+    background-color: white;
+    display: block;
+    margin: 30px 0px;
+}
+em{
+    background-color: blue;
+    color: white;
+}   
+input{
+   font-size: 30px; 
+   display: block;
+   padding: 10px, 40px;
+   margin: 24px 0px;
+   box-sizing: border-box;
+}
